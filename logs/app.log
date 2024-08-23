@@ -1,0 +1,23 @@
+INFO:root:Intentando crear estudiante con nombre: Josh y email: Josh@gmail.com
+INFO:root:Intentando crear estudiante con nombre: josh, apellido: romero, edad: 26, mail: josh@gmail.com, matricula MARK002, carrera: Marketing
+INFO:root:Intentando crear estudiante con nombre: josh, apellido: romero, edad: 26, mail: josh@gmail.com, matricula MAT324, carrera: Marketing
+INFO:root:Acción: C: Estudiante creado
+INFO:root:Acción: R: Estudiantes leídos
+INFO:root:Acción: R: Estudiantes leídos
+INFO:root:Intentando crear estudiante con nombre: gabriel, apellido: hernandez, edad: 25, mail: gabo@gmail.com, matricula TOR21, carrera: Medicina
+INFO:root:Acción: C: Estudiante creado
+INFO:root:Acción: R: Estudiantes leídos
+INFO:root:Acción: R: Estudiantes leídos
+INFO:root:Acción: U: Usuario actualizado
+INFO:root:Acción: D: Estudiante eliminado
+INFO:root:Acción: D: Estudiante eliminado
+INFO:root:Acción: D: Estudiante eliminado
+INFO:root:Acción: C: Publicación creada
+INFO:root:Acción: R: Publicaciones leídas
+INFO:root:Acción: U: Publicación actualizada
+INFO:root:Acción: D: Publicación eliminada
+INFO:root:Acción: D: Publicación eliminada
+INFO:root:Acción: Exportación de tabla: estudiante
+INFO:root:Acción: Exportación de tabla: publicacion
+INFO:root:Acción: Importación de historial iniciada
+INFO:root:Acción: Importación de historial completada

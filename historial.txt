@@ -1,0 +1,42 @@
+2024-08-22 11:37:48 - C - C en Estudiante creado: toni
+2024-08-22 11:49:00 - C - C en Publicacion creada: si
+2024-08-22 11:49:51 - R - R en Se ha realizado la lectura de todos los estudiantes
+2024-08-22 11:49:57 - R - R en Se ha realizado la lectura de todas las publicaciones
+2024-08-22 11:50:05 - Seleccionar por ID - Seleccionar por ID en Estudiante con ID: 1
+2024-08-22 12:00:27 - Seleccionar por ID - Seleccionar por ID en Estudiante con ID: 1
+2024-08-22 12:01:00 - U - U en Estudiante actualizado: ID 1
+2024-08-22 12:05:44 - D - D en Se ha eliminado el estudiante: 6
+2024-08-22 12:05:52 - R - R en Se ha realizado la lectura de todos los estudiantes
+2024-08-22 12:06:03 - D - D en Se ha eliminado el estudiante: 7
+2024-08-22 12:06:14 - Seleccionar por ID - Seleccionar por ID en Publicacion con ID: 1
+2024-08-22 12:15:24 - Seleccionar por ID - Seleccionar por ID en Publicacion con ID: 1
+2024-08-22 12:15:36 - D - D en Publicacion eliminada: 1
+2024-08-22 12:49:10 - C - C en Estudiante creado: Anthony
+2024-08-22 13:00:54 - C - C en Publicacion creada: Los Ecosistemas
+2024-08-22 13:01:01 - R - R en Se ha realizado la lectura de todos los estudiantes
+2024-08-22 13:01:09 - R - R en Se ha realizado la lectura de todas las publicaciones
+2024-08-22 13:01:59 - R - R en Se ha realizado la lectura de todas las publicaciones
+2024-08-22 15:42:24 - R - R en Se ha realizado la lectura de todos los estudiantes
+2024-08-22 15:42:29 - R - R en Se ha realizado la lectura de todas las publicaciones
+R: R - Se ha realizado la lectura de todos los estudiantes
+R: R - Se ha realizado la lectura de todas las publicaciones
+D: D - Se ha eliminado el estudiante: 1
+C: Estudiante creado
+R: Estudiantes leídos
+R: Estudiantes leídos
+C: Estudiante creado
+R: Estudiantes leídos
+R: Estudiantes leídos
+U: Usuario actualizado
+D: Estudiante eliminado
+D: Estudiante eliminado
+D: Estudiante eliminado
+C: Publicación creada
+R: Publicaciones leídas
+U: Publicación actualizada
+D: Publicación eliminada
+D: Publicación eliminada
+Exportación de tabla: estudiante
+Exportación de tabla: publicacion
+Importación de historial iniciada
+Importación de historial completada

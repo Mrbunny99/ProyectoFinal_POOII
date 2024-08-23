@@ -1,0 +1,15 @@
+Estudiante creado: josh, romero, Edad:  Email: josh@gmail.com, edad: 26, mail: josh@gmail.com, matricula MAT324, carrera: Marketing
+Estudiantes leídos
+Estudiantes leídos
+Estudiante creado: gabriel, hernandez, Edad: 25 Email: gabo@gmail.com, edad: 25, mail: gabo@gmail.com, matricula TOR21, carrera: Medicina
+Estudiantes leídos
+Estudiantes leídos
+Usuario actualizado: 1 a Hernan, Guerra, 27, hernia@gmail.com, ter, mecanica 
+Estudiante eliminado: 2
+Estudiante eliminado: 3
+Estudiante eliminado: 4
+Publicación creada: Celula
+Publicaciones leídas
+Publicación actualizada: 5 a Animales
+Publicación eliminada: 2
+Publicación eliminada: 8
