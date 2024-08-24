@@ -1,7 +1,7 @@
 import logging
 import os
 
-# Crear el directorio 'logs' si no existe
+
 if not os.path.exists('logs'):
     os.makedirs('logs')
 
